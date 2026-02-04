@@ -13,7 +13,7 @@
     
 
     
-    <a href="https://splitmintfrontend.vercel.app/">View Demo</a>
+   
     
    
     ·

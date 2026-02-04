@@ -1,0 +1,251 @@
+2026-02-03T16:03:58.234Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:21:57.816Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:14.322Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:20.868Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:59.685Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:24:11.196Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:24:38.262Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T17:23:38.685Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:24.768Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:24:30.402Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:24:45.247Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:47.731Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:48.944Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:50.169Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:29:01.179Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:29:46.706Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:31:11.693Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:31:15.332Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:36.945Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:38.655Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:39.643Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:54.563Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:35:02.939Z | ERROR  | URL : /api/users/v1/register | staus : undefined | message: Operation `users.findOne()` buffering timed out after 10000ms
+2026-02-03T17:35:52.968Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:45:53.302Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:39.015Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:39.166Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:44.174Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:44.281Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:48.373Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:49.515Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:49.886Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:52.761Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:52.873Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:50:16.755Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:51:05.174Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T17:52:14.908Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:52:15.854Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T17:53:19.809Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:09:02.014Z | ERROR  | [Invalid Route] /main.b49390f5b7be13d3ffb4.hot-update.json
+2026-02-03T18:09:03.851Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:09:04.975Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:13:29.283Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:13:41.137Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:21:08.562Z | ERROR  | [Invalid Route] /main.2f2a125d1a3ed759595b.hot-update.json
+2026-02-03T18:21:09.168Z | ERROR  | [Invalid Route] /main.2f2a125d1a3ed759595b.hot-update.json
+2026-02-03T18:21:18.375Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:21:19.157Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:21:19.617Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:23:13.336Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:23:14.007Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:25:58.940Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:10.343Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:12.734Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:38.916Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:39.627Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:39.951Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:47.684Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:49.617Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:50.243Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:53.527Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:54.545Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:04.910Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:06.724Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:12.569Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:13.767Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:28:07.605Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:28:08.237Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:37:51.651Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:37:52.456Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:37:52.786Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:39:11.933Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:13.269Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:43.868Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:44.698Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:46.172Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:46.796Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:48.246Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:48.884Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:50.743Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:51.559Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:59.240Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:59.861Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:41:00.857Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:41:31.088Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:45:42.952Z | ERROR  | URL : /api/users/v1/emailList | staus : undefined | message: 
+2026-02-03T18:45:42.953Z | ERROR  | URL : /api/group/v1/user | staus : undefined | message: 
+2026-02-03T18:46:32.858Z | ERROR  | [Invalid Route] /main.673e89af1d948f6a2758.hot-update.json
+2026-02-03T18:49:06.599Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:07.663Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:17.247Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:18.067Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:26.237Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:27.307Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:31.126Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:32.097Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:33.426Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:34.452Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:39.675Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:41.015Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:15.113Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:16.372Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:16.952Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:20.200Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:21.420Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:29.703Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:30.569Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T20:14:59.192Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:15:43.300Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T20:17:23.784Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:18:08.423Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T20:18:45.301Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:27:56.346Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:54:53.899Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:54:53.923Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:54:54.343Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:43.498Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:55.946Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:58.776Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Cannot convert undefined or null to object
+2026-02-03T21:57:03.086Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T21:57:06.516Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T21:57:29.709Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T22:22:32.843Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:23:15.086Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:23:21.549Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:21.965Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:29.937Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:30.327Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:46.505Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:46.870Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:03.909Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:04.403Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:04.405Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:06.411Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:07.074Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:25:07.352Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:12.950Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:13.288Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:18.905Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:19.228Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:31.058Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:31.394Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:32.817Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:33.508Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:33.820Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:35.843Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:37.599Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:37.934Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:04.849Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:05.196Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:34.944Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:35.355Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:38.925Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:39.345Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user

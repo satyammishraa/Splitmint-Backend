@@ -1,0 +1,827 @@
+2026-02-03T16:03:58.232Z | INFO   | Server started in PORT | 3001
+2026-02-03T16:03:58.234Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:21:57.813Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:21:57.816Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:14.318Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:23:14.322Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:20.866Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:23:20.868Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:23:59.683Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:23:59.685Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:24:11.193Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:24:11.196Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:24:38.259Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:24:38.262Z | ERROR  | DB Connection Fail | MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at Connection.openUri (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\connection.js:689:11)
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\mongoose\lib\index.js:376:20)
+    at Object.<anonymous> (C:\Users\Madhan\Desktop\splitwala\backend\model\schema.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1738:14)
+    at Object..js (node:internal/modules/cjs/loader:1871:10)
+2026-02-03T16:26:38.243Z | INFO   | Server started in PORT | 5000
+2026-02-03T16:26:54.453Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:18:11.586Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:22:39.336Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:23:37.207Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"bhang","lastName":"bhosda","emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:23:38.438Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"bhang","lastName":"bhosda","emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:23:38.685Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:24.607Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"bhang","lastName":"bhosda","emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:24.768Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:24:30.280Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"bhang","lastName":"bhosda","emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:30.402Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:24:44.997Z | INFO   | API HIT : [POST] /api/users/v1/login | {"emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:45.247Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:47.455Z | INFO   | API HIT : [POST] /api/users/v1/login | {"emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:47.731Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:48.739Z | INFO   | API HIT : [POST] /api/users/v1/login | {"emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:48.944Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:24:49.939Z | INFO   | API HIT : [POST] /api/users/v1/login | {"emailId":"bhangbhosda@gmail.com","password":"bhangbhosda","remember":true}
+2026-02-03T17:24:50.169Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:28:30.160Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:29:00.043Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"madan","lastName":"bhai","emailId":"madan@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:29:00.867Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"madan","lastName":"bhai","emailId":"madan@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:29:01.179Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:29:46.222Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"dfgdsfssdfsd","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:29:46.550Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"dfgdsfssdfsd","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:29:46.706Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:31:11.589Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"dfgdsfssdfsd","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:31:11.693Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:31:13.852Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"dfgdsfssdfsd","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:31:15.332Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:36.805Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:32:36.945Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:38.458Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:32:38.655Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:39.538Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:32:39.643Z | ERROR  | URL : /api/users/v1/register | staus : 400 | message: Email Id already present please login!
+2026-02-03T17:32:53.798Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test1@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:32:54.419Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test1@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:32:54.563Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:34:41.252Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:34:41.992Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:34:52.928Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdsdf","lastName":"sdfs","emailId":"test1@gmail.com","password":"testtest","remember":true}
+2026-02-03T17:35:02.939Z | ERROR  | URL : /api/users/v1/register | staus : undefined | message: Operation `users.findOne()` buffering timed out after 10000ms
+2026-02-03T17:35:19.215Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:35:52.356Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdfsdf","lastName":"sdfs","emailId":"test2@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:35:52.705Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"sdfsdf","lastName":"sdfs","emailId":"test2@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:35:52.968Z | ERROR  | URL : /api/users/v1/login | staus : undefined | message: secretOrPrivateKey must have a value Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Madhan\Desktop\splitwala\backend\node_modules\jsonwebtoken\sign.js:107:20)
+    at exports.generateAccessToken (C:\Users\Madhan\Desktop\splitwala\backend\helper\apiAuthentication.js:5:16)
+    at exports.userLogin (C:\Users\Madhan\Desktop\splitwala\backend\components\user.js:78:41)
+2026-02-03T17:39:02.498Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:06.636Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:08.951Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:10.968Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:24.979Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:30.638Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:40.633Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:42.588Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:39:45.776Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:40:11.780Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:40:37.757Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"dsdfs","lastName":"sdfs","emailId":"test3@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:40:38.207Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"dsdfs","lastName":"sdfs","emailId":"test3@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:42:04.329Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:42:34.485Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdfsdasda","lastName":"asda","emailId":"test4@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:42:35.023Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"sdfsdasda","lastName":"asda","emailId":"test4@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:45:29.335Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:45:42.027Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdfsdasda","lastName":"asda","emailId":"test4@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:45:51.703Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"sdfsdasda","lastName":"asda","emailId":"test5@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:45:52.262Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"sdfsdasda","lastName":"asda","emailId":"test5@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:45:53.195Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"test5@gmail.com"}
+2026-02-03T17:45:53.302Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:45:53.311Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:29.545Z | INFO   | Server started in PORT | 5000
+2026-02-03T17:49:38.925Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"test5@gmail.com"}
+2026-02-03T17:49:39.015Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:39.067Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:39.166Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:44.072Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"test5@gmail.com"}
+2026-02-03T17:49:44.174Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:44.186Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:44.281Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:48.202Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:48.373Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:49.443Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"test5@gmail.com"}
+2026-02-03T17:49:49.515Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:49.827Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:49.886Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:49:52.666Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"test5@gmail.com"}
+2026-02-03T17:49:52.761Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:49:52.788Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"69823450e482c8c1e1608d13","emailId":"test5@gmail.com","firstName":"sdfsdasda","lastName":"asda","accessToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdDVAZ21haWwuY29t.VpCVhdY4m4hb5fY9Z8PZ5CaR8cOrS8XetbForEyIGnE"}
+2026-02-03T17:49:52.873Z | ERROR  | URL : /api/group/v1/user | staus : 400 | message: User Id not found !
+2026-02-03T17:50:15.351Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"dfgdfgdfgd","lastName":"dfgd","emailId":"madan2@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:50:15.838Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"dfgdfgdfgd","lastName":"dfgd","emailId":"madan2@gmail.com","password":"madanmohan","remember":true}
+2026-02-03T17:50:16.666Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T17:50:16.755Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:50:16.765Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:50:44.821Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T17:51:04.370Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"gandu","groupDescription":"gandupanti","groupCurrency":"INR","groupCategory":"Office","groupMembers":["madan2@gmail.com"],"groupOwner":"madan2@gmail.com"}
+2026-02-03T17:51:04.877Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:51:05.060Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:51:05.174Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T17:51:23.961Z | INFO   | API HIT : [POST] /api/group/v1/settlement | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:51:28.499Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T17:51:30.160Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:51:38.415Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:51:52.686Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:08.603Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T17:52:10.070Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:14.850Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T17:52:14.908Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T17:52:15.226Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:15.498Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:15.781Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T17:52:15.786Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T17:52:15.788Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T17:52:15.790Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:15.854Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T17:52:15.863Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T17:52:25.868Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:52:30.285Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T17:53:17.448Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T17:53:19.328Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:53:19.753Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:53:19.809Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T17:53:21.719Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T17:53:22.201Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T17:53:41.674Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:03:35.273Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:03:43.242Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:03:50.225Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:03:54.229Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:03:58.243Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:04:03.247Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:05:33.513Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:05:34.662Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:05:35.992Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:05:40.704Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:08:52.651Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:09:02.013Z | INFO   | API HIT : [GET] /main.b49390f5b7be13d3ffb4.hot-update.json | {}
+2026-02-03T18:09:02.014Z | ERROR  | [Invalid Route] /main.b49390f5b7be13d3ffb4.hot-update.json
+2026-02-03T18:09:03.787Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:09:03.840Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:09:03.851Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:09:04.189Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:09:04.553Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:09:04.867Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:09:04.874Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:09:04.878Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:09:04.882Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:09:04.975Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:09:05.158Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:09:08.550Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:09:10.739Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:11:39.265Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:11:39.353Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:12:04.273Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:12:07.520Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:12:23.573Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:13:25.978Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:13:28.748Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:13:29.179Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:13:29.283Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:13:35.049Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:13:35.529Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:13:40.672Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:13:41.059Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:13:41.137Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:20:45.703Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:20:57.824Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:21:08.562Z | INFO   | API HIT : [GET] /main.2f2a125d1a3ed759595b.hot-update.json | {}
+2026-02-03T18:21:08.562Z | ERROR  | [Invalid Route] /main.2f2a125d1a3ed759595b.hot-update.json
+2026-02-03T18:21:09.168Z | INFO   | API HIT : [GET] /main.2f2a125d1a3ed759595b.hot-update.json | {}
+2026-02-03T18:21:09.168Z | ERROR  | [Invalid Route] /main.2f2a125d1a3ed759595b.hot-update.json
+2026-02-03T18:21:18.199Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:21:18.375Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:21:18.400Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:21:18.592Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:21:18.614Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:21:18.923Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:21:19.033Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:21:19.037Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:21:19.039Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:21:19.042Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:21:19.047Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:21:19.157Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:21:19.413Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:21:19.617Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:21:22.945Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:21:24.214Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:22:42.651Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:22:43.760Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:23:03.982Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:23:13.215Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:23:13.336Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:23:13.350Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:23:13.609Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:23:13.916Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:23:13.919Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:23:13.921Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:23:13.923Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:23:14.007Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:23:14.297Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:23:25.491Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:23:28.400Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:23:45.562Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"bhaibhai","groupDescription":"....","groupCurrency":"USD","groupCategory":"Home","groupMembers":["madan2@gmail.com"],"groupOwner":"madan2@gmail.com"}
+2026-02-03T18:25:07.257Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:07.823Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:08.465Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:17.303Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:17.851Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:18.500Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:19.688Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:21.533Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:22.408Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:22.638Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:22.729Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:23.562Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:23.824Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:24.088Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:34.402Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:25:39.420Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:25:57.057Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"madan","groupDescription":"...","groupCurrency":"INR","groupCategory":"Home","groupMembers":["madan2@gmail.com"],"groupOwner":"madan2@gmail.com"}
+2026-02-03T18:25:58.566Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:25:58.836Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:25:58.940Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:09.392Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:26:09.813Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:26:10.343Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:12.489Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:26:12.632Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69823db5e7c88cc1ab6fda7c"}
+2026-02-03T18:26:12.734Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:19.634Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:26:38.915Z | INFO   | API HIT : [GET] /main.d7c31de011b78a290008.hot-update.json | {}
+2026-02-03T18:26:38.916Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:39.626Z | INFO   | API HIT : [GET] /main.d7c31de011b78a290008.hot-update.json | {}
+2026-02-03T18:26:39.627Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:39.950Z | INFO   | API HIT : [GET] /main.d7c31de011b78a290008.hot-update.json | {}
+2026-02-03T18:26:39.951Z | ERROR  | [Invalid Route] /main.d7c31de011b78a290008.hot-update.json
+2026-02-03T18:26:43.852Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:26:44.982Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:26:47.571Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:47.684Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:48.119Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:49.146Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:49.436Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:49.442Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:49.446Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:49.455Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:49.617Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:49.734Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:26:49.908Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:49.915Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:26:50.243Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:26:53.378Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:53.527Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:53.540Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:54.379Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:54.382Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:54.386Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:54.388Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:54.391Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:26:54.545Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:26:54.558Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:26:59.711Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:27:04.339Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:04.910Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:04.929Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:06.344Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:06.367Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:06.369Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:06.370Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:06.374Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:06.724Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:06.735Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:10.231Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:27:12.016Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:12.569Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:12.577Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:13.511Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:13.514Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:13.516Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:13.517Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:13.518Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:27:13.767Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:27:13.772Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:27:38.476Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:28:02.764Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:28:02.966Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:28:07.525Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:28:07.605Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:28:07.617Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:28:07.927Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:28:08.144Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:28:08.168Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:28:08.172Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:28:08.174Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:28:08.237Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:28:08.247Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:28:32.339Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:30:42.794Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:30:43.247Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:31:12.252Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:33:15.603Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:33:16.255Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:33:19.262Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:35:38.259Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:36:14.249Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:36:51.538Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:37:01.248Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:37:22.253Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:37:39.643Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:37:51.650Z | INFO   | API HIT : [GET] /main.a313a5e2fa38f011cc8c.hot-update.json | {}
+2026-02-03T18:37:51.651Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:37:52.455Z | INFO   | API HIT : [GET] /main.a313a5e2fa38f011cc8c.hot-update.json | {}
+2026-02-03T18:37:52.456Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:37:52.785Z | INFO   | API HIT : [GET] /main.a313a5e2fa38f011cc8c.hot-update.json | {}
+2026-02-03T18:37:52.786Z | ERROR  | [Invalid Route] /main.a313a5e2fa38f011cc8c.hot-update.json
+2026-02-03T18:37:54.433Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:37:55.050Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698235882603b0c5e63eebc6"}
+2026-02-03T18:37:55.494Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:38:01.689Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:00.074Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:39:11.807Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:11.933Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:11.952Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:12.762Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:13.086Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:13.090Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:13.091Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:13.092Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:13.269Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:13.596Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:43.794Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:43.868Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:43.978Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:44.224Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:44.376Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:44.541Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:44.542Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:44.544Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:44.546Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:44.698Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:46.109Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:46.172Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:46.180Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:46.697Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:46.698Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:46.700Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:46.701Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:46.702Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:46.796Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:46.804Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:48.187Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:48.246Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:48.266Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:48.506Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:48.811Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:48.812Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:48.812Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:48.813Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:48.884Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:49.207Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:50.608Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:50.743Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:50.752Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:51.075Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:51.380Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:51.381Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:51.381Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:51.382Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:51.559Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:51.872Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:59.104Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:59.240Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:39:59.247Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:59.458Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:59.775Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:59.776Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:59.776Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:39:59.777Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:39:59.861Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:40:00.195Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:40:03.991Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:40:12.703Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:40:14.382Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:40:22.288Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:40:28.464Z | INFO   | API HIT : [POST] /api/users/v1/view | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:40:32.666Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:40:59.227Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"fvdsffsdd","groupDescription":"dfvd","groupCurrency":"INR","groupCategory":"Trip","groupMembers":["madan2@gmail.com"],"groupOwner":"madan2@gmail.com"}
+2026-02-03T18:40:59.795Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982413b9b48385db9f868ef"}
+2026-02-03T18:41:00.199Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982413b9b48385db9f868ef"}
+2026-02-03T18:41:00.857Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:41:30.569Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982413b9b48385db9f868ef"}
+2026-02-03T18:41:30.896Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982413b9b48385db9f868ef"}
+2026-02-03T18:41:31.088Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T18:43:23.137Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:43:25.658Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:43:51.217Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"fdfd","groupDescription":"dfgdf","groupCurrency":"INR","groupCategory":"Home","groupMembers":["madan2@gmail.com"],"groupOwner":"madan2@gmail.com"}
+2026-02-03T18:44:10.229Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T18:44:19.016Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:45:42.952Z | ERROR  | URL : /api/users/v1/emailList | staus : undefined | message: 
+2026-02-03T18:45:42.953Z | ERROR  | URL : /api/group/v1/user | staus : undefined | message: 
+2026-02-03T18:45:59.660Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:46:11.390Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:46:22.594Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:46:32.857Z | INFO   | API HIT : [GET] /main.673e89af1d948f6a2758.hot-update.json | {}
+2026-02-03T18:46:32.858Z | ERROR  | [Invalid Route] /main.673e89af1d948f6a2758.hot-update.json
+2026-02-03T18:46:34.153Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:46:34.394Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:47:44.278Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:48:56.231Z | INFO   | Server started in PORT | 5000
+2026-02-03T18:49:06.295Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:06.599Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:06.920Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:07.256Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:07.569Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:07.572Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:07.574Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:07.576Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:07.663Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:07.965Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:17.160Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:17.247Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:17.257Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:17.592Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:17.900Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:17.901Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:17.903Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:17.904Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:18.067Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:18.285Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:26.031Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:26.237Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:26.247Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:27.004Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:27.005Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:27.006Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:27.007Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:27.008Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:27.260Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:27.307Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:31.003Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:31.126Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:31.137Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:31.506Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:31.823Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:31.824Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:31.825Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:31.827Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:32.097Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:32.463Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:33.341Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:33.426Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:33.442Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:33.966Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:34.278Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:34.280Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:34.282Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:34.284Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:34.452Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:34.773Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:39.501Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:39.675Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:39.684Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:40.068Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:40.390Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:40.391Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:40.392Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:49:40.393Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:49:41.015Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:49:41.320Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:03.665Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:11.568Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:13.685Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:15.113Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:15.432Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:16.372Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:16.704Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:16.802Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:16.828Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:16.830Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:16.834Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:16.839Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:16.952Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:17.272Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:19.983Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:20.200Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:20.324Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:20.863Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:21.171Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:21.173Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:21.174Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:21.175Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:21.420Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:21.734Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:29.189Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:29.703Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:29.711Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:30.108Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:30.416Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:30.418Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:30.418Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"madan2@gmail.com"}
+2026-02-03T18:50:30.419Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698235572603b0c5e63eebbf","emailId":"madan2@gmail.com","firstName":"dfgdfgdfgd","lastName":"dfgd","accessToken":"eyJhbGciOiJIUzI1NiJ9.bWFkYW4yQGdtYWlsLmNvbQ.XpBr0nsmIEsXin04UQMlSSVuBr7i9U7CceKi0O5lURQ"}
+2026-02-03T18:50:30.569Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T18:50:30.892Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"madan2@gmail.com"}
+2026-02-03T20:14:15.721Z | INFO   | Server started in PORT | 5000
+2026-02-03T20:14:57.749Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"hvjhv","lastName":"ugkvmn","emailId":"Satyam2@gmail.com","password":"satyam12","remember":true}
+2026-02-03T20:14:58.148Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"hvjhv","lastName":"ugkvmn","emailId":"Satyam2@gmail.com","password":"satyam12","remember":true}
+2026-02-03T20:14:59.103Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"Satyam2@gmail.com"}
+2026-02-03T20:14:59.192Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:14:59.269Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698257417e3098266583cb4c","emailId":"Satyam2@gmail.com","firstName":"hvjhv","lastName":"ugkvmn","accessToken":"eyJhbGciOiJIUzI1NiJ9.U2F0eWFtMkBnbWFpbC5jb20.HCziet4IyMNp-CCu80rWYKmNhxWKgzMcipuXqm8Ub3Q"}
+2026-02-03T20:15:06.792Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698257417e3098266583cb4c","emailId":"Satyam2@gmail.com","firstName":"hvjhv","lastName":"ugkvmn","accessToken":"eyJhbGciOiJIUzI1NiJ9.U2F0eWFtMkBnbWFpbC5jb20.HCziet4IyMNp-CCu80rWYKmNhxWKgzMcipuXqm8Ub3Q"}
+2026-02-03T20:15:08.415Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T20:15:41.740Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"gendu2","groupDescription":"hh","groupCurrency":"INR","groupCategory":"Home","groupMembers":["Satyam2@gmail.com","madan2@gmail.com"],"groupOwner":"Satyam2@gmail.com"}
+2026-02-03T20:15:42.978Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T20:15:43.244Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T20:15:43.300Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T20:17:21.754Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"kjbkjb","lastName":"ugiug","emailId":"satyam1@gmail.com","password":"satyam123","remember":true}
+2026-02-03T20:17:22.269Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"kjbkjb","lastName":"ugiug","emailId":"satyam1@gmail.com","password":"satyam123","remember":true}
+2026-02-03T20:17:23.714Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam1@gmail.com"}
+2026-02-03T20:17:23.784Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:17:24.196Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698257d17e3098266583cb5d","emailId":"satyam1@gmail.com","firstName":"kjbkjb","lastName":"ugiug","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtMUBnbWFpbC5jb20.BaLf7J0pFqwyHt89fMTR2ZxvP5b3nbuGpFIDDPcw254"}
+2026-02-03T20:17:27.820Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698257d17e3098266583cb5d","emailId":"satyam1@gmail.com","firstName":"kjbkjb","lastName":"ugiug","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtMUBnbWFpbC5jb20.BaLf7J0pFqwyHt89fMTR2ZxvP5b3nbuGpFIDDPcw254"}
+2026-02-03T20:17:30.146Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T20:18:06.871Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"gendu3","groupDescription":"uhia","groupCurrency":"USD","groupCategory":"Trip","groupMembers":["satyam1@gmail.com","madan2@gmail.com","Satyam2@gmail.com"],"groupOwner":"satyam1@gmail.com"}
+2026-02-03T20:18:08.235Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T20:18:08.357Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T20:18:08.423Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T20:18:43.433Z | INFO   | API HIT : [POST] /api/users/v1/register | {"firstName":"jjnjj","lastName":"jbkjb","emailId":"satyam4@gmail.com","password":"satyam123","remember":true}
+2026-02-03T20:18:43.799Z | INFO   | API HIT : [POST] /api/users/v1/login | {"firstName":"jjnjj","lastName":"jbkjb","emailId":"satyam4@gmail.com","password":"satyam123","remember":true}
+2026-02-03T20:18:45.252Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T20:18:45.301Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T20:18:45.838Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T20:18:48.652Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T20:27:51.522Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"gendu4","groupDescription":"jnj","groupCurrency":"USD","groupCategory":"Office","groupMembers":["satyam4@gmail.com","madan2@gmail.com","Satyam2@gmail.com","satyam1@gmail.com"],"groupOwner":"satyam4@gmail.com"}
+2026-02-03T20:27:55.857Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69825a477e3098266583cb76"}
+2026-02-03T20:27:56.261Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69825a477e3098266583cb76"}
+2026-02-03T20:27:56.346Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T20:30:37.751Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T20:30:37.989Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T20:30:38.005Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69825a477e3098266583cb76"}
+2026-02-03T20:30:38.380Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T20:30:38.416Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T21:54:48.921Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69825a477e3098266583cb76"}
+2026-02-03T21:54:53.899Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:54:53.923Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:54:54.343Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:06.137Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T21:55:40.755Z | INFO   | API HIT : [POST] /api/group/v1/add | {"groupName":"jjgf","groupDescription":"hfgjhjh","groupCurrency":"INR","groupCategory":"Sports","groupMembers":["satyam4@gmail.com","Satyam2@gmail.com","madan2@gmail.com","satyam1@gmail.com"],"groupOwner":"satyam4@gmail.com"}
+2026-02-03T21:55:43.208Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:43.384Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:43.498Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:52.905Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T21:55:53.026Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:55.625Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:55.825Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:55.946Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T21:55:58.650Z | INFO   | API HIT : [POST] /api/group/v1/settlement | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:55:58.776Z | ERROR  | URL : /api/group/v1/settlement | staus : undefined | message: Cannot convert undefined or null to object
+2026-02-03T21:56:06.604Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T21:56:06.784Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:57:02.771Z | INFO   | API HIT : [POST] /api/group/v1/edit | {"groupName":"jjgf","groupDescription":"hfgjhjh","groupCurrency":"INR","groupCategory":"Sports","groupOwner":"satyam4@gmail.com","groupMembers":["satyam4@gmail.com","Satyam2@gmail.com","madan2@gmail.com"],"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:57:03.086Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T21:57:06.320Z | INFO   | API HIT : [POST] /api/group/v1/edit | {"groupName":"jjgf","groupDescription":"hfgjhjh","groupCurrency":"INR","groupCategory":"Sports","groupOwner":"satyam4@gmail.com","groupMembers":["satyam4@gmail.com","Satyam2@gmail.com","madan2@gmail.com"],"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:57:06.516Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T21:57:29.494Z | INFO   | API HIT : [POST] /api/group/v1/edit | {"groupName":"jjgf","groupDescription":"hfgjhjh","groupCurrency":"INR","groupCategory":"Sports","groupOwner":"satyam4@gmail.com","groupMembers":["satyam4@gmail.com","Satyam2@gmail.com","madan2@gmail.com"],"id":"69826edc7e3098266583cb86"}
+2026-02-03T21:57:29.709Z | ERROR  | URL : /api/group/v1/edit | staus : undefined | message: Cannot read properties of undefined (reading 'hasOwnProperty')
+2026-02-03T22:22:32.576Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:22:32.761Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:22:32.843Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:23:14.834Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:23:15.007Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:23:15.086Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:23:18.244Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T22:23:18.394Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:23:21.470Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:21.549Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:21.574Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:21.811Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:21.828Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:21.873Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:21.893Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:21.953Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:21.965Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:21.987Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:27.986Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T22:23:28.221Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:23:29.844Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:29.937Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:29.979Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:30.232Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:30.236Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:30.245Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:30.247Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:30.252Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:30.327Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:30.337Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:34.180Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T22:23:34.301Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"6982576d7e3098266583cb55"}
+2026-02-03T22:23:36.487Z | INFO   | API HIT : [POST] /api/users/v1/view | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:46.417Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:46.505Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:46.548Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:46.782Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:46.789Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:46.797Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:46.799Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:46.801Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:23:46.870Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:23:46.917Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:23:52.442Z | INFO   | API HIT : [POST] /api/users/v1/view | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:24:44.468Z | INFO   | Server started in PORT | 5000
+2026-02-03T22:25:03.907Z | INFO   | API HIT : [GET] /main.0c118b3c6e4e598fe262.hot-update.json | {}
+2026-02-03T22:25:03.909Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:04.403Z | INFO   | API HIT : [GET] /main.0c118b3c6e4e598fe262.hot-update.json | {}
+2026-02-03T22:25:04.403Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:04.405Z | INFO   | API HIT : [GET] /main.0c118b3c6e4e598fe262.hot-update.json | {}
+2026-02-03T22:25:04.405Z | ERROR  | [Invalid Route] /main.0c118b3c6e4e598fe262.hot-update.json
+2026-02-03T22:25:06.305Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:06.349Z | INFO   | API HIT : [POST] /api/users/v1/view | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:06.411Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:06.471Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:06.720Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T22:25:06.726Z | INFO   | API HIT : [GET] /api/users/v1/emailList | {}
+2026-02-03T22:25:06.842Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:06.858Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:06.865Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:06.871Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:06.882Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:06.982Z | INFO   | API HIT : [POST] /api/expense/v1/group | {"id":"698257fe7e3098266583cb66"}
+2026-02-03T22:25:07.044Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:07.074Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2026-02-03T22:25:07.154Z | INFO   | API HIT : [POST] /api/group/v1/view | {"id":"69826edc7e3098266583cb86"}
+2026-02-03T22:25:07.352Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:12.880Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:12.950Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:12.986Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:13.202Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:13.216Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:13.220Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:13.221Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:13.224Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:13.288Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:13.340Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:18.824Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:18.905Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:18.923Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:19.142Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:19.152Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:19.155Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:19.157Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:19.160Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:19.228Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:19.261Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:30.982Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:31.058Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:31.082Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:31.294Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:31.296Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:31.300Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:31.303Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:31.305Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:31.394Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:31.423Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:32.746Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:32.817Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:32.840Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:33.434Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:33.508Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:33.533Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:33.726Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:33.743Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:33.745Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:33.746Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:33.748Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:33.820Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:33.864Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:35.755Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:35.843Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:37.522Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:37.599Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:37.634Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:37.850Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:37.853Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:37.856Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:37.858Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:25:37.860Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:25:37.934Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:25:37.953Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:04.761Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:04.849Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:04.876Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:05.103Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:05.111Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:05.113Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:05.115Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:05.117Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:05.196Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:05.234Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:34.872Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:34.944Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:34.983Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:35.294Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:35.297Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:35.299Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:35.303Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:35.305Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:35.355Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:35.398Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:38.842Z | INFO   | API HIT : [POST] /api/expense/v1/user | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:38.925Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:38.951Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:39.250Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:39.255Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:39.262Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:39.266Z | INFO   | API HIT : [POST] /api/group/v1/user | {"status":"Success","message":"User Login Success","userId":"698258237e3098266583cb6f","emailId":"satyam4@gmail.com","firstName":"jjnjj","lastName":"jbkjb","accessToken":"eyJhbGciOiJIUzI1NiJ9.c2F0eWFtNEBnbWFpbC5jb20.u3ze7nhK28B8qBQXiZzI2c0wtvL4vEmsxl-tyHbyIUg"}
+2026-02-03T22:26:39.272Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent | {"user":"satyam4@gmail.com"}
+2026-02-03T22:26:39.345Z | ERROR  | URL : /api/expense/v1/user/recent | staus : 400 | message: No expense present for the user
+2026-02-03T22:26:39.367Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp | {"user":"satyam4@gmail.com"}

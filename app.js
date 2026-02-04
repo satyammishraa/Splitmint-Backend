@@ -16,7 +16,17 @@ var expenseRouter = require('./routes/expenseRouter')
 const connectDB = require('./config/db')
 
 var app = express()
-app.use(cors())
+app.use(
+  cors({
+    origin: [
+      "http://localhost:3000",
+      "https://splitmint-frontend.vercel.app"
+    ],
+    credentials: true
+  })
+);
+
+//app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
 app.use(requestLogger)

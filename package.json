@@ -10,8 +10,8 @@
   "keywords": [
     "SplitWise"
   ],
-  "author": "Sunny George",
-  "license": "ISC",
+  "author": "Satyam Mishra",
+  "license": " ",
   "dependencies": {
     "@mui/x-data-grid": "^5.12.3",
     "bcryptjs": "^2.4.3",
